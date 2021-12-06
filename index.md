@@ -1,8 +1,9 @@
-## Welcome to my 30DayMapChallenge 2021
+### Welcome
+### My 30DayMapChallenge 2021
 
-You can use the [editor on GitHub](https://github.com/bryanvallejo16/my-30daymapchallenge/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The initiative of #30DayMapChallenge was created by Topi Tjukanov and the official website is [30daymapchallenge.com/](https://30daymapchallenge.com/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I couldn't manage to do all 30 maps but as far as I could I used my time to create maps. I discovered that everyday is a good to do a map.
 
 ### Markdown
 
