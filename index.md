@@ -1,38 +1,15 @@
-### Welcome
-### My 30DayMapChallenge 2021
+### My 30DayMapChallenge 2021 
 
-The initiative of #30DayMapChallenge was created by Topi Tjukanov and the official website is [30daymapchallenge.com/](https://30daymapchallenge.com/).
+The initiative of #30DayMapChallenge was created by Topi Tjukanov and it happened on twitter during November. Get to know the official website [30daymapchallenge.com](https://30daymapchallenge.com/) and all the inspiring creations of the geospatial community all over the world.
 
-I couldn't manage to do all 30 maps but as far as I could I used my time to create maps. I discovered that everyday is a good to do a map.
+It was difficult to handle all 30 maps but not impossible to do some. I discovered a lot of talented cartographers in November 2021 who inspired me with new ideas. I am glad I was part of this wonderful initiative and I discovered that every day is a good day to do some cartography. Some of the maps were done with friends/colleagues members of @digigeolab | Digital Geography Lab - University of Helsinki
 
-### Markdown
+My personal profile [Bryan R. Vallejo](https://www.linkedin.com/in/bryanrvallejo/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Day 1: Points
 
-```markdown
-Syntax highlighted code block
+![map](img/1_points.jpg)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bryanvallejo16/my-30daymapchallenge/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```
