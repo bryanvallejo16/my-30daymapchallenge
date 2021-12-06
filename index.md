@@ -8,7 +8,7 @@ My personal profile [Bryan R. Vallejo](https://www.linkedin.com/in/bryanrvallejo
 
 ### Day 1: Points
 
-![map](img/1_points.jpg)
+![map](img/1_points.png)
 
 ```
 
